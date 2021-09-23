@@ -1,0 +1,51 @@
+# approvalの設定ファイル(for devDependency)
+---
+# - - :permit
+#   - CC-BY-3.0
+#   - :who: 
+#     :why: 
+#     :versions: []
+#     :when: 2021-09-06 02:15:35.098597000 Z
+# - - :permit
+#   - CC0-1.0
+#   - :who: 
+#     :why: 
+#     :versions: []
+#     :when: 2021-09-06 02:15:41.098597000 Z
+# - - :permit
+#   - CC-BY-4.0
+#   - :who: 
+#     :why: 
+#     :versions: []
+#     :when: 2021-09-06 05:23:41.098597000 Z
+# - - :permit
+#   - ODC-By-1.0
+#   - :who: 
+#     :why: 
+#     :versions: []
+#     :when: 2021-09-06 05:23:25.098597000 Z
+# # - - :permit
+# #   - Bsd
+# #   - :who: 
+# #     :why: 
+# #     :versions: []
+# #     :when: 2021-09-06 05:23:25.098597000 Z
+# - - :ignore
+#   - react
+#   - :who: 
+#     :why: 
+#     :versions: []
+#     :when: 2021-09-06 09:30:35.730329000 Z
+# - - :ignore
+#   - react-dom
+#   - :who: 
+#     :why: 
+#     :versions: []
+#     :when: 2021-09-06 09:30:59.574453000 Z
+# # This is a workaround for the License Finder bug. If you want to use typescript in this project in the future, you will need to remove this setting.
+# - - :ignore
+#   - typescript
+#   - :who: 
+#     :why: 
+#     :versions: []
+#     :when: 2021-09-06 05:51:21.134990000 Z
